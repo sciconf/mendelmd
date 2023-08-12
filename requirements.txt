@@ -1,6 +1,7 @@
 wheel
 Django
 psycopg2-binary
+django-jsonfield-backport==1.0.5
 django-allauth
 django-debug-toolbar
 django-crispy-forms
